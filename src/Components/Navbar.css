@@ -1,0 +1,16 @@
+.active{
+    text-decoration: underline;
+    text-decoration-color: aqua;
+    text-underline-offset: 0.5rem;
+    text-decoration-thickness: 1px;
+}
+
+@media (max-width:768px){ 
+    .hide{
+        display: none;
+    }
+}
+
+.hide2{
+    display: none;
+}
